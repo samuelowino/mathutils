@@ -1,2 +1,2 @@
 # mathutils
-Math Utils
+> Minor utility code for arithmetic 
